@@ -1,0 +1,17 @@
+{
+  "name": "scrom",
+  "version": "1.0.0",
+  "description": "Presentación Tema 1 con reveal.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
